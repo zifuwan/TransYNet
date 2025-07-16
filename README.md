@@ -37,10 +37,13 @@ python test.py
 ## Citations
 
 ```bibtex
-@
-  title={Trans Y-Net Learning Fully Transformer Network for Change Detection of Remote  Sensing Images},
-  author={Tianyu Yan, Fuzi Wan, Pingping Zhang，Gong Cheng，Huchaun LU},
-  journal={IEEE Transactions on Geoscience Remote Sensing},
-  year={2023}
+@article{yan2023transy,
+  title={Transy-net: Learning fully transformer networks for change detection of remote sensing images},
+  author={Yan, Tianyu and Wan, Zifu and Zhang, Pingping and Cheng, Gong and Lu, Huchuan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={61},
+  pages={1--12},
+  year={2023},
+  publisher={IEEE}
 }
 ```
